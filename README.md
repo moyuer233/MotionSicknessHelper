@@ -101,6 +101,5 @@ MotionSicknessHelper/
 ├─ OverlayForm.cs        # 透明点击穿透置顶覆盖层 + 绘制
 ├─ SettingsForm.cs       # 设置窗口
 ├─ config.json           # 默认配置
-├─ build.ps1             # 构建脚本
-└─ .github/workflows/    # GitHub Actions 自动构建 Release
+└─ build.ps1             # 构建脚本
 ```
