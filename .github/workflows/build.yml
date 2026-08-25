@@ -1,0 +1,35 @@
+name: Build Release EXE
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Publish framework-dependent EXE
+        run: dotnet publish MotionSicknessHelper/MotionSicknessHelper.csproj -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true -o publish/MotionSicknessHelper
+
+      - name: Publish self-contained EXE
+        run: dotnet publish MotionSicknessHelper/MotionSicknessHelper.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -p:EnableCompressionInSingleFile=true -o publish/MotionSicknessHelper-SelfContained
+
+      - name: Copy config
+        run: |
+          Copy-Item MotionSicknessHelper/config.json publish/MotionSicknessHelper/config.json
+          Copy-Item MotionSicknessHelper/config.json publish/MotionSicknessHelper-SelfContained/config.json
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: MotionSicknessHelper
+          path: publish/**

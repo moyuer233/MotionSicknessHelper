@@ -1,0 +1,46 @@
+{
+  "edgeInset": 8,
+  "flashIntervalMs": 500,
+  "shapes": [
+    {
+      "position": "TopLeft",
+      "shape": "Triangle",
+      "size": 240,
+      "thickness": 50,
+      "color": "#00FF00",
+      "flashEnabled": false,
+      "color2": "#FF0000",
+      "opacity": 140
+    },
+    {
+      "position": "TopRight",
+      "shape": "Triangle",
+      "size": 240,
+      "thickness": 50,
+      "color": "#00FF00",
+      "flashEnabled": false,
+      "color2": "#FF0000",
+      "opacity": 140
+    },
+    {
+      "position": "BottomLeft",
+      "shape": "Triangle",
+      "size": 240,
+      "thickness": 50,
+      "color": "#00FF00",
+      "flashEnabled": false,
+      "color2": "#FF0000",
+      "opacity": 140
+    },
+    {
+      "position": "BottomRight",
+      "shape": "Triangle",
+      "size": 240,
+      "thickness": 50,
+      "color": "#00FF00",
+      "flashEnabled": false,
+      "color2": "#FF0000",
+      "opacity": 140
+    }
+  ]
+}
