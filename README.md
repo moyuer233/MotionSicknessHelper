@@ -1,15 +1,17 @@
 <div align="center">
 
-![release](https://img.shields.io/github/v/release/moyuer233/MotionSicknessHelper)
-![downloads](https://img.shields.io/github/downloads/moyuer233/MotionSicknessHelper/total)
-![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4)
-![.NET](https://img.shields.io/badge/.NET-8-512BD4)
+# 晕3D辅助 / MotionSicknessHelper
+
+_✨ 完全置顶、点击穿透的屏幕覆盖层：用指向中心的三角或长条缓解晕 3D ✨_
 
 </div>
 
-# 晕3D辅助 / MotionSicknessHelper
-
-一个极小、完全置顶、鼠标点击穿透的 Windows 屏幕覆盖层小工具，用来在游戏画面边缘显示指向屏幕中心的三角形或长条，帮助缓解“晕 3D”时的空间定向不适。
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/moyuer233/MotionSicknessHelper" alt="release">
+  <img src="https://img.shields.io/github/downloads/moyuer233/MotionSicknessHelper/total" alt="downloads">
+  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4" alt="platform">
+  <img src="https://img.shields.io/badge/.NET-8-512BD4" alt=".NET">
+</p>
 
 - 三角形/长条自动朝向屏幕中心
 - 支持四个角（corner）或四条边中点（edge）位置
