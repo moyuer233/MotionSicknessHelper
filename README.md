@@ -1,3 +1,13 @@
+<div align="center">
+
+![release](https://img.shields.io/github/v/release/moyuer233/MotionSicknessHelper)
+![downloads](https://img.shields.io/github/downloads/moyuer233/MotionSicknessHelper/total)
+
+![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4)
+![.NET](https://img.shields.io/badge/.NET-8-512BD4)
+
+</div>
+
 # 晕3D辅助 / MotionSicknessHelper
 
 一个极小、完全置顶、鼠标点击穿透的 Windows 屏幕覆盖层小工具，用来在游戏画面边缘显示指向屏幕中心的三角形或长条，帮助缓解“晕 3D”时的空间定向不适。
