@@ -1,10 +1,6 @@
-<div align="center">
-
 # 晕3D辅助 / MotionSicknessHelper
 
 _✨ 完全置顶、点击穿透的屏幕覆盖层：用指向中心的三角或长条缓解晕 3D ✨_
-
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/moyuer233/MotionSicknessHelper" alt="release">
