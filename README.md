@@ -2,14 +2,8 @@
 
 _✨ 完全置顶、点击穿透的屏幕覆盖层：用指向中心的三角或长条缓解晕 3D ✨_
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/moyuer233/MotionSicknessHelper" alt="release">
-  <img src="https://img.shields.io/github/downloads/moyuer233/MotionSicknessHelper/total" alt="downloads">
-  <img src="https://img.shields.io/github/commit-activity/m/moyuer233/MotionSicknessHelper" alt="commit activity">
-  <img src="https://img.shields.io/github/last-commit/moyuer233/MotionSicknessHelper" alt="last commit">
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4" alt="platform">
-  <img src="https://img.shields.io/badge/.NET-8-512BD4" alt=".NET">
-</p>
+![release](https://img.shields.io/github/v/release/moyuer233/MotionSicknessHelper) ![downloads](https://img.shields.io/github/downloads/moyuer233/MotionSicknessHelper/total) ![commit activity](https://img.shields.io/github/commit-activity/m/moyuer233/MotionSicknessHelper)
+![last commit](https://img.shields.io/github/last-commit/moyuer233/MotionSicknessHelper) ![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4) ![.NET](https://img.shields.io/badge/.NET-8-512BD4)
 
 - 三角形/长条自动朝向屏幕中心
 - 支持四个角（corner）或四条边中点（edge）位置
