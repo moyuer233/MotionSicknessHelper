@@ -2,8 +2,14 @@
 
 _✨ 完全置顶、点击穿透的屏幕覆盖层：用指向中心的三角或长条缓解晕 3D ✨_
 
-![release](https://img.shields.io/github/v/release/moyuer233/MotionSicknessHelper) ![downloads](https://img.shields.io/github/downloads/moyuer233/MotionSicknessHelper/total) ![commit activity](https://img.shields.io/github/commit-activity/m/moyuer233/MotionSicknessHelper)
-![last commit](https://img.shields.io/github/last-commit/moyuer233/MotionSicknessHelper) ![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4) ![.NET](https://img.shields.io/badge/.NET-8-512BD4)
+<p align="center">
+  <a href="https://github.com/moyuer233/MotionSicknessHelper/releases"><img alt="release" src="https://img.shields.io/github/v/release/moyuer233/MotionSicknessHelper?style=flat-square&labelColor=161b22&color=2088FF&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/moyuer233/MotionSicknessHelper/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/moyuer233/MotionSicknessHelper/total?style=flat-square&labelColor=161b22&color=2088FF&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/moyuer233/MotionSicknessHelper/commits/master"><img alt="commit activity" src="https://img.shields.io/github/commit-activity/m/moyuer233/MotionSicknessHelper?style=flat-square&labelColor=161b22&color=2088FF&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/moyuer233/MotionSicknessHelper/commits/master"><img alt="last commit" src="https://img.shields.io/github/last-commit/moyuer233/MotionSicknessHelper?style=flat-square&labelColor=161b22&color=2088FF&logo=github&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/windows"><img alt="platform" src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4?style=flat-square&labelColor=161b22&color=0078D4&logo=windows&logoColor=white"/></a>
+  <a href="https://dotnet.microsoft.com"><img alt=".NET" src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&labelColor=161b22&color=512BD4&logo=dotnet&logoColor=white"/></a>
+</p>
 
 - 三角形/长条自动朝向屏幕中心
 - 支持四个角（corner）或四条边中点（edge）位置
